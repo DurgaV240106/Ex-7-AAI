@@ -114,13 +114,13 @@ if __name__ == "__main__":
 
 
 
-<H3>Output</H3>
+## Output
 
 ```
 <img width="872" height="427" alt="image" src="https://github.com/user-attachments/assets/3312374a-6fc7-44b7-99a3-47b2c1bf8d7c" />
 
 ```
-<H3>Result:</H3>
+## Result:
 
 Thus ,the program to perform the Text summarization is executed sucessfully.
 
